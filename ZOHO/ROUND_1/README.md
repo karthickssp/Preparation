@@ -1,6 +1,5 @@
 # ZOHO ROUND ONE QUESTIONS AND ANSWERS
 
-
 ## Topics
 -   **Pointers**
 -   **Strings**
